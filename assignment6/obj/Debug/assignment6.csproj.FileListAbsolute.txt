@@ -1,0 +1,14 @@
+D:\Programing\vsForC#\assignment6\obj\Debug\assignment6.csproj.AssemblyReference.cache
+D:\Programing\vsForC#\assignment6\obj\Debug\assignment6.Form1.resources
+D:\Programing\vsForC#\assignment6\obj\Debug\assignment6.Properties.Resources.resources
+D:\Programing\vsForC#\assignment6\obj\Debug\assignment6.csproj.GenerateResource.cache
+D:\Programing\vsForC#\assignment6\obj\Debug\assignment6.csproj.CoreCompileInputs.cache
+D:\Programing\vsForC#\assignment6\bin\Debug\assignment6.exe.config
+D:\Programing\vsForC#\assignment6\bin\Debug\assignment6.exe
+D:\Programing\vsForC#\assignment6\bin\Debug\assignment6.pdb
+D:\Programing\vsForC#\assignment6\bin\Debug\assignment7.exe
+D:\Programing\vsForC#\assignment6\bin\Debug\assignment7.pdb
+D:\Programing\vsForC#\assignment6\bin\Debug\assignment7.exe.config
+D:\Programing\vsForC#\assignment6\obj\Debug\assignme.E7B477DE.Up2Date
+D:\Programing\vsForC#\assignment6\obj\Debug\assignment6.exe
+D:\Programing\vsForC#\assignment6\obj\Debug\assignment6.pdb

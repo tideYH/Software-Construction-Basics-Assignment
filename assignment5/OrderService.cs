@@ -4,47 +4,51 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-public class OrderService
+namespace assignment5
 {
-    private List<Order> orders = new List<Order>();
-
-    public void AddOrder(Order order)
+    public class OrderService
     {
-        if (orders.Contains(order))
+        private List<Order> orders = new List<Order>();
+
+        public void AddOrder(Order order)
         {
-            throw new Exception("订单已存在。");
+            if (orders.Contains(order))
+            {
+                throw new Exception("订单已存在。");
+            }
+            orders.Add(order);
         }
-        orders.Add(order);
-    }
 
-    public void RemoveOrder(int orderId)
-    {
-        Order order = orders.FirstOrDefault(o => o.OrderId == orderId);
-        if (order == null)
+        public void RemoveOrder(int orderId)
         {
-            throw new Exception("订单不存在。");
+            Order order = orders.FirstOrDefault(o => o.OrderId == orderId);
+            if (order == null)
+            {
+                throw new Exception("订单不存在。");
+            }
+            orders.Remove(order);
         }
-        orders.Remove(order);
-    }
 
-    public void UpdateOrder(Order order)
-    {
-        Order oldOrder = orders.FirstOrDefault(o => o.OrderId == order.OrderId);
-        if (oldOrder == null)
+        public void UpdateOrder(Order order)
         {
-            throw new Exception("订单不存在。");
+            Order oldOrder = orders.FirstOrDefault(o => o.OrderId == order.OrderId);
+            if (oldOrder == null)
+            {
+                throw new Exception("订单不存在。");
+            }
+            orders.Remove(oldOrder);
+            orders.Add(order);
         }
-        orders.Remove(oldOrder);
-        orders.Add(order);
-    }
 
-    public List<Order> QueryOrdersByPredicate(Func<Order, bool> predicate)
-    {
-        return orders.Where(predicate).OrderBy(order => order.GetTotalAmount()).ToList();
-    }
+        public List<Order> QueryOrdersByPredicate(Func<Order, bool> predicate)
+        {
+            return orders.Where(predicate).OrderBy(order => order.GetTotalAmount()).ToList();
+        }
 
-    public void SortOrders(Func<Order, object> keySelector)
-    {
-        orders = orders.OrderBy(keySelector).ToList();
+        public void SortOrders(Func<Order, object> keySelector)
+        {
+            orders = orders.OrderBy(keySelector).ToList();
+        }
     }
 }
+

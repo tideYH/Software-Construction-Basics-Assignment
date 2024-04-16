@@ -4,7 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-public class Customer
+namespace assignment5 {
+    public class Customer
 {
     public string Name { get; set; }
 
@@ -17,4 +18,6 @@ public class Customer
     {
         return Name;
     }
+} 
+
 }
