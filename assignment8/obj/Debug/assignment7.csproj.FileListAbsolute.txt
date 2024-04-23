@@ -1,0 +1,16 @@
+D:\Programing\vsForC#\assignment8\bin\Debug\assignment6.exe.config
+D:\Programing\vsForC#\assignment8\bin\Debug\assignment6.exe
+D:\Programing\vsForC#\assignment8\bin\Debug\assignment6.pdb
+D:\Programing\vsForC#\assignment8\bin\Debug\assignment7.exe
+D:\Programing\vsForC#\assignment8\bin\Debug\assignment7.pdb
+D:\Programing\vsForC#\assignment8\bin\Debug\assignment7.exe.config
+D:\Programing\vsForC#\assignment8\obj\Debug\assignment7.csproj.AssemblyReference.cache
+D:\Programing\vsForC#\assignment8\obj\Debug\assignment6.Properties.Resources.resources
+D:\Programing\vsForC#\assignment8\obj\Debug\assignment7.csproj.GenerateResource.cache
+D:\Programing\vsForC#\assignment8\obj\Debug\assignment7.csproj.CoreCompileInputs.cache
+D:\Programing\vsForC#\assignment8\obj\Debug\assignme.F286FBA3.Up2Date
+D:\Programing\vsForC#\assignment8\obj\Debug\assignment6.exe
+D:\Programing\vsForC#\assignment8\obj\Debug\assignment6.pdb
+D:\Programing\vsForC#\assignment8\obj\Debug\assignment7.FormAdd.resources
+D:\Programing\vsForC#\assignment8\obj\Debug\assignment7.FormDetailsAdd.resources
+D:\Programing\vsForC#\assignment8\obj\Debug\assignment7.FormMian.resources

@@ -42,12 +42,20 @@ namespace assignment5
 
         public List<Order> QueryOrdersByPredicate(Func<Order, bool> predicate)
         {
-            return orders.Where(predicate).OrderBy(order => order.GetTotalAmount()).ToList();
+            return orders
+                .Where(predicate)
+                .OrderBy(order => order.GetTotalAmount())
+                .ToList();
         }
 
         public void SortOrders(Func<Order, object> keySelector)
         {
             orders = orders.OrderBy(keySelector).ToList();
+        }
+
+        public object GetAllOrders()
+        {
+            throw new NotImplementedException();
         }
     }
 }

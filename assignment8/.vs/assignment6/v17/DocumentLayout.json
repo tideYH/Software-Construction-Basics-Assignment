@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programing\\vsForC#\\assignment8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7086E57E-3E23-4CCC-8086-1829B44D1615}|assignment6.csproj|d:\\programing\\vsforc#\\assignment8\\formmian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7086E57E-3E23-4CCC-8086-1829B44D1615}|assignment6.csproj|solutionrelative:formmian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7086E57E-3E23-4CCC-8086-1829B44D1615}|assignment6.csproj|D:\\Programing\\vsForC#\\assignment8\\formadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7086E57E-3E23-4CCC-8086-1829B44D1615}|assignment6.csproj|solutionrelative:formadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7086E57E-3E23-4CCC-8086-1829B44D1615}|assignment6.csproj|D:\\Programing\\vsForC#\\assignment8\\formadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7086E57E-3E23-4CCC-8086-1829B44D1615}|assignment6.csproj|solutionrelative:formadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7086E57E-3E23-4CCC-8086-1829B44D1615}|assignment6.csproj|d:\\programing\\vsforc#\\assignment8\\formdetailsadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7086E57E-3E23-4CCC-8086-1829B44D1615}|assignment6.csproj|solutionrelative:formdetailsadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7086E57E-3E23-4CCC-8086-1829B44D1615}|assignment6.csproj|D:\\Programing\\vsForC#\\assignment8\\formdetailsadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7086E57E-3E23-4CCC-8086-1829B44D1615}|assignment6.csproj|solutionrelative:formdetailsadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7086E57E-3E23-4CCC-8086-1829B44D1615}|assignment6.csproj|D:\\Programing\\vsForC#\\assignment8\\formmian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7086E57E-3E23-4CCC-8086-1829B44D1615}|assignment6.csproj|solutionrelative:formmian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7086E57E-3E23-4CCC-8086-1829B44D1615}|assignment6.csproj|D:\\Programing\\vsForC#\\assignment8\\formmian.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7086E57E-3E23-4CCC-8086-1829B44D1615}|assignment6.csproj|solutionrelative:formmian.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMian.cs",
+              "DocumentMoniker": "D:\\Programing\\vsForC#\\assignment8\\FormMian.cs",
+              "RelativeDocumentMoniker": "FormMian.cs",
+              "ToolTip": "D:\\Programing\\vsForC#\\assignment8\\FormMian.cs",
+              "RelativeToolTip": "FormMian.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:50:38.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormAdd.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Programing\\vsForC#\\assignment8\\FormAdd.cs",
+              "RelativeDocumentMoniker": "FormAdd.cs",
+              "ToolTip": "D:\\Programing\\vsForC#\\assignment6\\FormAdd.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\assignment6\\FormAdd.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T13:42:33.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormAdd.cs",
+              "DocumentMoniker": "D:\\Programing\\vsForC#\\assignment8\\FormAdd.cs",
+              "RelativeDocumentMoniker": "FormAdd.cs",
+              "ToolTip": "D:\\Programing\\vsForC#\\assignment8\\FormAdd.cs",
+              "RelativeToolTip": "FormAdd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T13:54:43.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormDetailsAdd.cs",
+              "DocumentMoniker": "D:\\Programing\\vsForC#\\assignment8\\FormDetailsAdd.cs",
+              "RelativeDocumentMoniker": "FormDetailsAdd.cs",
+              "ToolTip": "D:\\Programing\\vsForC#\\assignment8\\FormDetailsAdd.cs",
+              "RelativeToolTip": "FormDetailsAdd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T13:41:42.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormMian.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Programing\\vsForC#\\assignment8\\FormMian.cs",
+              "RelativeDocumentMoniker": "FormMian.cs",
+              "ToolTip": "D:\\Programing\\vsForC#\\assignment6\\FormMian.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\assignment6\\FormMian.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T07:49:07.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormMian.Designer.cs",
+              "DocumentMoniker": "D:\\Programing\\vsForC#\\assignment8\\FormMian.Designer.cs",
+              "RelativeDocumentMoniker": "FormMian.Designer.cs",
+              "ToolTip": "D:\\Programing\\vsForC#\\assignment8\\FormMian.Designer.cs",
+              "RelativeToolTip": "FormMian.Designer.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAADwv6gAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T09:04:51.468Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormDetailsAdd.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\Programing\\vsForC#\\assignment8\\FormDetailsAdd.cs",
+              "RelativeDocumentMoniker": "FormDetailsAdd.cs",
+              "ToolTip": "D:\\Programing\\vsForC#\\assignment8\\FormDetailsAdd.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FormDetailsAdd.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T13:41:24.446Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
